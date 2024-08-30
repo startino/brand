@@ -14,13 +14,8 @@
 
 ## Colors
 
-<div style="color: #45dfa4">
+### !#45dfa4 `Primary`
 
-### Primary
-
-- hex: #45dfa4
-- rgb: 69 223 164
-- hsv: 157 69 87
-- cmyk: 69 0 26 13
-
-</div>
+- !#45dfa4 `hex: #45dfa4`
+- !#45dfa4 `rgb: 69 223 164`
+- !#45dfa4 `cmyk: 69 0 26 13`
